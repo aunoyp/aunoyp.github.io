@@ -1,4 +1,6 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+It is easy to suppose something, to say perhaps, or to say maybe. What is much harder is to be definite. People, and thereby the world, are full of contradictions. Sentiments and situations are messy. The more closely I look, the more confused I become. 
+
+Still, this complexity demands from us a compass to behave, to seek, to love, to be. I aim to build such a compass and discuss the complexities I see around me and let it lead me towards a fantastic journey. I hope you'll join me.
 
 ![Image of fast.ai logo](images/logo.png)
 
