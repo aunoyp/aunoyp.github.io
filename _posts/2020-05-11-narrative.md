@@ -4,7 +4,7 @@
 
 Throughout and beyond this applications cycle, I have attempted to explain a new idea to someone. Most of the time, my audience walks away confused or in disagreement. This perplexes me. Did I explain my idea poorly? Or is my idea bad in itself? Or maybe they just didn't understand?
 
-![Sketh of hierachical problem]
+![Sketch of hierachical problem]
 https://aunoyp.github.com/images/05_12_2020_sketch.png
 
 This is a fun hierarchical error problem. There are three levels in communicating an idea to someone. First, the idea itself. Second, the delivery. Third, the audience's capacity to interact with the idea. These are sequential, so an error in the first will propagate to the second and third.
