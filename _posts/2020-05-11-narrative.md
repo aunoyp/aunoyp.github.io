@@ -40,55 +40,14 @@ The secondary and tertiary level of idea communication, delivery and comprehensi
 As an exercise, I took my personal statement from my medical school application and did a close read of it. You may wonder why I didn't do this before submitting it; all I have to say is that road-tripping and writing about your life didn't come as naturally to me as it did to Keroac or Beto.
 
 Here's my personal statement:
-> My approach to my life and career began with introspection. Consumed with finding my sense of
-> purpose, I looked inside to find my place in the world. In time, I allowed myself to flow towards pursuits
-> that resonated with me, excited me, and grounded me. The flow led me to connect with other people,
-> to their passions and their struggles, which in turn became mine.
-> My journey towards this flow started on a medical fellowship in Spain. As an Atlantis Fellow, I had an
-> opportunity to shadow doctors at the town hospital of Teruel, Spain. In my head, I was on my first step
-> to becoming a doctor. I intended to observe a few different departments and see which inspired my
-> interests. My focus was “I,” and the town and its patients were only helping me make a decision.
-> At first, I was unhappy in Teruel. In the hospital, I struggled to grasp the nuances in the Spanish
-> conversations between patients and physicians. I felt alone and isolated. Near the end of the first
-> week, one of the doctors I was shadowing, Dr. Ranera, invited me to share a coffee and jamón
-> serrano.
-> He asked me about myself, about school, and my research. Our conversation drifted to Bob Dylan and
-> music, and its ability to connect people. We became fast friends as he took me under his wing, and I
-> started to feel more comfortable in the hospital. I watched his interactions with the nurses and patients.
-> He did not cut conversations short and always maintained eye-contact. His presence was magnetic.
-> Inspired by his example, I started to pay less attention to myself and more to the people around me.
-> Soon, the cultural code that was so difficult to understand became second nature. I began to adopt
-> slang, gestures, shoulder touches, and cheek kisses. In my next rotation, I became close to Dr.
-> Herrera, who was an oncologist. I remember the day I saw Dr. Herrera sitting with Hector, a farmer
-> who was fond of cigarettes. At the short end of the table, I saw both faces, a pained mask and a
-> shattered life as she told him he had lung cancer. Hector rubbed his gnarled hands on his stubble,
-> holding back tears. Although I felt compelled to say something, it wasn’t my place. It was Dr. Herrera’s.
-> She, with gentle strength, told Hector that they would fight, together.
-> Returning from Teruel, I set out to work in the lab for the rest of the summer. While I had been
-> accustomed to think it was a solitary place, my time in Professor Dixon’s lab subverted my
-> expectations. We would sit by the whiteboard and draw models, argue, stare at the data, and sift
-> through the literature. A thought solidified into a hypothesis and then bloomed into an experiment. We
-> would test out our ideas and then start all over again. My curiosity came alive, growing in the presence
-> of fun, rigorous thinking. By the end of the summer, I had gained an appreciation for learning from
-> those around me.
-> When I returned to school, my interests began to shift. I became interested in philosophy. As I delved
-> deeper, I saw that many cornerstones of philosophy, memory, language, and mind converged in the
-> brain. So, I began a crash course in neuroscience, studying the neural mechanism that underlies
-> emotion in the lab with Dr. Salzman. As I immersed myself, I wanted to ask my own questions and
-> began a project in my senior year.
-> My project was focused on an almond-shaped region of the brain called the amygdala. The amygdala
-> signals the presence of threats and rewards, and more recently, has been found to signal the location
-> of these stimuli too. My hypothesis was that the amygdala combines information about reward and
-> space to map out the world around us. This helps us navigate the world, steering us towards our
-> morning cup of coffee and away from danger. Problems with the amygdala can interfere with
-> processing emotions and can result in conditions like autism and schizophrenia. I hope that my work
-> will contribute to the treatment of these neurological conditions.
-> I had started my journey looking inside, expecting to find purpose. When I began to look outside, I
-> found love and meaning. After this transition in thinking, I noticed similarities between myself and my
-> classmates. Having struggled to find a home at Columbia, I saw that social isolation impacted the
-> mental health of many of my peers. I began a campaign to improve student inclusion by creating a
-> space on campus for first years to discuss their social experience and meet upperclassmen. My life
-> began to flow between noticing the difficulties in the lives of others and my role as an agent of change
-> to support them.
-> My desire to connect and to understand has led me to medicine. To understand the relationship
-> between one’s life and the world, between one neuron and another, between people who love one another, and to improve their lives with research and care - these are my goals
+> My approach to my life and career began with introspection. Consumed with finding my sense of purpose, I looked inside to find my place in the world. In time, I allowed myself to flow towards pursuits that resonated with me, excited me, and grounded me. The flow led me to connect with other people, to their passions and their struggles, which in turn became mine.
+> My journey towards this flow started on a medical fellowship in Spain. As an Atlantis Fellow, I had an opportunity to shadow doctors at the town hospital of Teruel, Spain. In my head, I was on my first step to becoming a doctor. I intended to observe a few different departments and see which inspired my interests. My focus was “I,” and the town and its patients were only helping me make a decision.
+> At first, I was unhappy in Teruel. In the hospital, I struggled to grasp the nuances in the Spanish conversations between patients and physicians. I felt alone and isolated. Near the end of the first week, one of the doctors I was shadowing, Dr. Ranera, invited me to share a coffee and jamón serrano.
+> He asked me about myself, about school, and my research. Our conversation drifted to Bob Dylan and music, and its ability to connect people. We became fast friends as he took me under his wing, and I started to feel more comfortable in the hospital. I watched his interactions with the nurses and patients. He did not cut conversations short and always maintained eye-contact. His presence was magnetic. Inspired by his example, I started to pay less attention to myself and more to the people around me.
+> Soon, the cultural code that was so difficult to understand became second nature. I began to adopt slang, gestures, shoulder touches, and cheek kisses. In my next rotation, I became close to Dr. Herrera, who was an oncologist. I remember the day I saw Dr. Herrera sitting with Hector, a farmer who was fond of cigarettes. At the short end of the table, I saw both faces, a pained mask and a shattered life as she told him he had lung cancer. Hector rubbed his gnarled hands on his stubble, holding back tears. Although I felt compelled to say something, it wasn’t my place. It was Dr. Herrera’s. She, with gentle strength, told Hector that they would fight, together.
+> Returning from Teruel, I set out to work in the lab for the rest of the summer. While I had been accustomed to think it was a solitary place, my time in Professor Dixon’s lab subverted my
+> expectations. We would sit by the whiteboard and draw models, argue, stare at the data, and sift through the literature. A thought solidified into a hypothesis and then bloomed into an experiment. We would test out our ideas and then start all over again. My curiosity came alive, growing in the presence of fun, rigorous thinking. By the end of the summer, I had gained an appreciation for learning from those around me.
+> When I returned to school, my interests began to shift. I became interested in philosophy. As I delved deeper, I saw that many cornerstones of philosophy, memory, language, and mind converged in the brain. So, I began a crash course in neuroscience, studying the neural mechanism that underlies emotion in the lab with Dr. Salzman. As I immersed myself, I wanted to ask my own questions and began a project in my senior year.
+> My project was focused on an almond-shaped region of the brain called the amygdala. The amygdala signals the presence of threats and rewards, and more recently, has been found to signal the location of these stimuli too. My hypothesis was that the amygdala combines information about reward and space to map out the world around us. This helps us navigate the world, steering us towards our morning cup of coffee and away from danger. Problems with the amygdala can interfere with processing emotions and can result in conditions like autism and schizophrenia. I hope that my work will contribute to the treatment of these neurological conditions.
+> I had started my journey looking inside, expecting to find purpose. When I began to look outside, I found love and meaning. After this transition in thinking, I noticed similarities between myself and my classmates. Having struggled to find a home at Columbia, I saw that social isolation impacted the mental health of many of my peers. I began a campaign to improve student inclusion by creating a space on campus for first years to discuss their social experience and meet upperclassmen. My life began to flow between noticing the difficulties in the lives of others and my role as an agent of change to support them.
+> My desire to connect and to understand has led me to medicine. To understand the relationship between one’s life and the world, between one neuron and another, between people who love one another, and to improve their lives with research and care - these are my goals
