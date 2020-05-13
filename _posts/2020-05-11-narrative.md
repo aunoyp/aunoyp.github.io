@@ -17,4 +17,12 @@ In order to understand the issues in my communication, I broke down the componen
     - If the sky is blue, then the sun is yellow
     - Therefore, the grass is green
   - For validity, we assume that the sky is blue and that the if -> then relation is true (meaning that if the sky is blue then I am correct in sayin gthe sun is yellow). However, that does not have any bearing on the grass by the structure of the argument, so the argument isn't valid.
-  - For an argument to be sound, then we evaluate the if -> then relations and the strength of the assumptions. If we assume that the world has
+  - For an argument to be sound, then we evaluate the if -> then relations and the strength of the assumptions. Is the sky being blue a good assumption? And does that lead to the sun being yellow?
+  - So strictly, logic includes validity and sound reasoning, and more broadly it means reasoning. 
+- Feasibility
+  - Can this be done?
+  - Derived from entrepreneur culture. Do I have the resources and the experience to navigate the challenges of implementation?
+  - Although this seems obvious if pitching a business, I think it applies to most interactions. If, for example, I want to explain how I want to be a neurologist, it's important that I have thought through the specifics. Which training will I receive, from where will I receive this training, and what will I use this training for?
+  - For well trodden paths, like being a neurologist, the answers are well documented and easy.
+  - For newer ideas, which I often come up with, these aren't so clear. It's important to hammer these down before going around telling people about the idea.
+- 
