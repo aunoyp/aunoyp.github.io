@@ -14,12 +14,12 @@ In order to understand the issues in my communication, I broke down the componen
 
 - Logic
   - More appropriately yet pretentiously termed *logos*
-  - Logic isn't just the series of if->then statements interposed with axioms and facts. Of course, it needs to be valid and to be sound. To be valid, the structure of the argument cannot have holes in it. For example, if I want to prove that grass is green, and my argument reads
+  - Logic is pretty much syllogysms. Mostly a bunch of if->then statements interposed with axioms and facts. Of course, it needs to be valid and to be sound. To be valid, the structure of the argument cannot have holes in it. For example, if I want to prove that grass is green, and my argument reads
     - If the sky is blue, then the sun is yellow
     - Therefore, the grass is green
-  - For validity, we assume that the sky is blue and that the if -> then relation is true (meaning that if the sky is blue then I am correct in sayin gthe sun is yellow). However, that does not have any bearing on the grass by the structure of the argument, so the argument isn't valid.
+  - For validity, we assume that the sky is blue and that the if -> then relation is true (meaning that if the sky is blue then I am correct in saying the sun is yellow). However, that does not have any bearing on the grass by the structure of the argument, so the argument isn't valid.
   - For an argument to be sound, then we evaluate the if -> then relations and the strength of the assumptions. Is the sky being blue a good assumption? And does that lead to the sun being yellow?
-  - So strictly, logic includes validity and sound reasoning, and more broadly it means reasoning. 
+  - Initially, I had thought that logic comprises of more than syllogisms, but in my experience, arguments come down to the strength of assumptions and the whether the relationships between facts and axioms hold.
 - Feasibility
   - Can this be done?
   - Derived from entrepreneur culture. Do I have the resources and the experience to navigate the challenges of implementation? I think defensibility (why wouldn't someone else do this) is a part of feasibility. I think mostly because the challenge of doing 'it' (pursuing the idea) will involve other people also doing 'it'.
@@ -37,7 +37,7 @@ These comprise the primary components of an idea. The logic of the idea, the fea
 
 The secondary and tertiary level of idea communication, delivery and comprehension, are a lot less easy to think about. Ideally, the speaker should tailor the delivery to the audience. Because of this fluidity, I want to talk about delivery and comprehension together.
 
-As an exercise, I took my personal statement from my medical school application and did a close read of it. You may wonder why I didn't do this before submitting it; all I have to say is that road-tripping and writing about your life didn't come as naturally to me as it did to Keroac or Beto.
+As an exercise, I took my personal statement from my medical school application and did a close read of it. You may wonder why I didn't do this before submitting it; all I have to say is that road-tripping and writing about your life didn't come as naturally to me as it did to Keroac or Kesey.
 
 Here's my personal statement:
 > My approach to my life and career began with introspection. Consumed with finding my sense of purpose, I looked inside to find my place in the world. In time, I allowed myself to flow towards pursuits that resonated with me, excited me, and grounded me. The flow led me to connect with other people, to their passions and their struggles, which in turn became mine.
