@@ -1,6 +1,6 @@
 # Narrative
 
-## Coherency
+## Coherence
 
 Throughout and beyond this applications cycle, I have attempted to explain a new idea to someone. Most of the time, my audience walks away confused or in disagreement. This perplexes me. Did I explain my idea poorly? Or is my idea bad in itself? Or maybe they just didn't understand?
 
@@ -59,3 +59,7 @@ Here's my personal statement:
 > I had started my journey looking inside, expecting to find purpose. When I began to look outside, I found love and meaning. After this transition in thinking, I noticed similarities between myself and my classmates. Having struggled to find a home at Columbia, I saw that social isolation impacted the mental health of many of my peers. I began a campaign to improve student inclusion by creating a space on campus for first years to discuss their social experience and meet upperclassmen. My life began to flow between noticing the difficulties in the lives of others and my role as an agent of change to support them.
 
 > My desire to connect and to understand has led me to medicine. To understand the relationship between one’s life and the world, between one neuron and another, between people who love one another, and to improve their lives with research and care - these are my goals
+
+Cool! The essay aims to establish my journey from introspection to outrospection, from internal thinking to empathy and awareness. But to break down the narrative, and discuss the logic and delivery, I decided to analyze each paragraph closely. I first wrote out literally what the paragraph described, then I extracted the big picture idea the paragraph contributed, and then conceived of a visual interpretation of the flow of the logic.
+
+![Close read of personal statement](https://aunoyp.github.io/images/05_12_2020_narrative_analysis.png)
