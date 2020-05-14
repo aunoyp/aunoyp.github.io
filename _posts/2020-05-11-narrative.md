@@ -84,7 +84,7 @@ and lead to rejection from society. As an M.D./P.h.D, I want to be at the forefr
 development of the brain and its capacity to learn and work to heal these traumas of the past. I want
 everyone, despite their circumstances, to have a chance to be accepted in the world.
 
-There it is. Many young children and adolescents deal with a host of neurological and psychiatric disorders that arise from genetic and environmental conditions. As a physician, I can work to improve their lives by providing treatment and researching the changes that occur in their brains to develop new therapies and drugs. My exposure to medicine encouraged me that I can make a difference in people's lives not just through treatment and research, but empathy as well.
+There it is. Many young children and adolescents deal with a host of neurological and psychiatric disorders that arise from genetic and environmental conditions. As a physician, I can work to improve their lives by providing treatment and researching the changes that occur in their brains to develop new therapies and drugs. My exposure to medicine encouraged me that I can make a difference in people's lives not just through treatment and research, but empathy as well. Ideally, a personal statement would describe the characteristics and experiences that make me a good candidate to pursue this path.
 
 Oof. Well, this helped me understand more about myself and hopefully will inform my future writing and thinking. 
 
