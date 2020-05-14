@@ -63,3 +63,29 @@ Here's my personal statement:
 Cool! The essay aims to establish my journey from introspection to outrospection, from internal thinking to empathy and awareness. But to break down the narrative, and discuss the logic and delivery, I decided to analyze each paragraph closely. I first wrote out literally what the paragraph described, then I extracted the big picture idea the paragraph contributed, and then conceived of a visual interpretation of the flow of the logic.
 
 ![Close read of personal statement](https://aunoyp.github.io/images/05_12_2020_narrative_analysis.png)
+
+The essay starts off well. The introductory paragraph serves as a summary of the narrative; reminiscent of a invocation before an epic poem. The narrative is succinct and follows a coherent arc. The nice circle I drew feels very appropriate!
+
+Paragraphs 2-4 do a great job of following the arc established by the first paragraph. There is a consistent progression of the theme, and development of my character / mental state. The thematic development presents itself painlessly from the text, and does a decent job of showing (to be honest there is a bit too much telling for my liking). 
+
+However, paragraph 5 marks the point in which the essay runs off the rails. The description of Dr. Herrera and Hector profoundly impacted me, but did not serve to advance the narrative. I visually described it as squiggles at the same point as the previous paragraph. The thematic content matched the previous paragraph, but did not clearly add a new point to the narrative. Instead it weakly described the same thing again: medicine, connection, empathy, and awareness interconnect with each another.
+
+Paragraph 6-8 find an entirely new track and heads in a different direction entirely. The mistake comes from a natural source. My chronological narrative evolved this way, so I felt compelled to recreate the temporal order of the events. However, a good story thematically progresses regardless of the chronological truth. This understanding is so freaking ancient I feel stupid for not thinking about this. Odysseus starting in Phaeacia (the middle of the chronological story) had a function other than being bohemian!!!
+
+In order to establish my passion for research, I damaged the integrity of the essay. Thematically, connection represents a compelling and pervasive aspect of my story. In this case, the primary idea stood strong. The delivery of the idea did not, well, deliver. Paragraph 6 retained some scraps of connection, and perhaps if the drive to understand connection led to my research interest, the passion for research could have been well integrated into the essay.
+
+Would I need to write this again (which might be soon), I would step away from the connection theme. The reason I say this is that connection, social isolation, and empathy could be better pursued as a social worker. As a doctor, my primary job demands that I study and interact with pathology. Although I don't enjoy essays that talk about loved ones with diseases, they effectively communicate the logic of their idea. _I want to be a doctor so I can cure epilepsy_. Simple!
+
+Ironically, I do a great job of this in my why MD/PhD essay. Here's the last paragraph:
+
+>The early events in our lives, like the trauma of abuse and isolation, can hurt the development of our
+brains. These changes can prevent us from responding to punishment and learning from our mistakes,
+and lead to rejection from society. As an M.D./P.h.D, I want to be at the forefront of studying the
+development of the brain and its capacity to learn and work to heal these traumas of the past. I want
+everyone, despite their circumstances, to have a chance to be accepted in the world.
+
+There it is. Many young children and adolescents deal with a host of neurological and psychiatric disorders that arise from genetic and environmental conditions. As a physician, I can work to improve their lives by providing treatment and researching the changes that occur in their brains to develop new therapies and drugs. My exposure to medicine encouraged me that I can make a difference in people's lives not just through treatment and research, but empathy as well.
+
+Oof. Well, this helped me understand more about myself and hopefully will inform my future writing and thinking. 
+
+
