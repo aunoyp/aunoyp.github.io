@@ -13,7 +13,6 @@ In order to understand the issues in my communication, I broke down the componen
 # Primary Errors
 
 - Logic
-  - More appropriately yet pretentiously termed *logos*
   - Logic is pretty much syllogysms. Mostly a bunch of if->then statements interposed with axioms and facts. Of course, it needs to be valid and to be sound. To be valid, the structure of the argument cannot have holes in it. For example, if I want to prove that grass is green, and my argument reads
     - If the sky is blue, then the sun is yellow
     - Therefore, the grass is green
